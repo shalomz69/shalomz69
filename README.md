@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shalomz69
+- 👋 I’m @shalomz69
 - 👀 I’m interested in Tyepscript and Java
 
 <!---
