@@ -1,5 +1,4 @@
-- 👋 I’m @shalomz69
-- 👀 I’m interested in Tyepscript and Java
+- 👀 Coding enthusiast in Java, Python, Scala and Tyepscript.
 
 <!---
 shalomz69/shalomz69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
