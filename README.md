@@ -1,4 +1,4 @@
-- 👀 Coding enthusiast in Java, Python, Scala and Typescript.
+- 👀 Coding enthusiast in Java, Python and Typescript.
 
 <!---
 shalomz69/shalomz69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
